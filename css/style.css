@@ -207,6 +207,78 @@ header{
 
 
 
+/*INIZIO SECTION 6*/
+
+.section6{
+    height: 480px;
+    background-color: rgb(16, 14, 14);
+
+}
+.container-sec6{
+    width: 70%;
+    margin:0 auto;
+    
+    
+}
+.row-sec6{
+    padding-top: 5px;
+    width: 100%;
+    display: flex;
+    
+}
+
+
+.col1-sec6{
+    width: 30%;
+    height: 450px;
+    background-color:rgb(216, 79, 77);
+    border: 1px dashed black;
+    
+    
+    
+}
+
+.col2-sec6{
+    width: 17.5%;
+    background-color: rgb(14, 185, 131);
+    border: 1px dashed white;
+    
+
+    
+}
+.col3-sec6{
+    width: 17.5%;
+    background-color: rgb(14, 185, 131);
+    border: 1px dashed white;
+    
+
+    
+}
+.col4-sec6{
+    width: 17.5%;
+    background-color: rgb(14, 185, 131);
+    border: 1px dashed white;
+    
+
+    
+}
+.col5-sec6{
+    width: 17.5%;
+    background-color: rgb(14, 185, 131);
+    border: 1px dashed white;
+    
+
+    
+}
+
+
+
+
+/*FINE SECTION 6*/
+
+
+
+
 
 
 
