@@ -60,6 +60,129 @@ header{
 }
 /*FINE HEADER*/
 
+/*INIZIO SECTION 1*/
+.section1{
+    background-color: rgb(14, 14, 83);
+    height: 360px;
+    display:flex;
+    align-items: center;
+}
+
+.container-sec1 {
+    width: 50%;
+    margin:0 auto;
+    
+    
+}
+
+.row-sec1 {
+    background-color: rgb(218, 68, 168);
+    height: 300px;
+    border: 1px dashed black;
+}
+
+
+/*FINE SECTION 1*/
+
+
+/*INIZIO SECTION 2*/
+.section2{
+    display:flex;
+    align-items: center;
+    height: 480px;
+    
+
+}
+.container-sec2{
+    width: 70%;
+    margin:0 auto;
+    
+    
+}
+.row-sec2{
+    width: 100%;
+    display: flex;
+    
+}
+
+.col1-sec2{
+    width: 60%;
+    height: 420px;
+    background-color: rgb(34, 119, 204);
+    border: 1px dashed black;
+    
+
+    
+    
+
+}
+
+.col2-sec2{
+    width: 40%;
+    background-color:pink;
+    border: 1px dashed black;
+    
+    
+    
+}
+
+
+
+
+/*FINE SECTION 2*/
+
+
+
+
+/*INIZIO SECTION 3*/
+.section3{
+    display:flex;
+    align-items: center;
+    height: 480px;
+    background-color: rgb(196, 191, 191);
+
+}
+.container-sec3{
+    width: 70%;
+    margin:0 auto;
+    
+    
+}
+.row-sec3{
+    width: 100%;
+    display: flex;
+    
+}
+
+.col2-sec3{
+    width: 60%;
+    height: 420px;
+    background-color: rgb(34, 119, 204);
+    border: 1px dashed black;
+    
+
+    
+    
+
+}
+
+.col1-sec3{
+    width: 40%;
+    background-color:pink;
+    border: 1px dashed black;
+    
+    
+    
+}
+
+
+
+
+/*FINE SECTION 3*/
+
+
+
+
 
 
 
