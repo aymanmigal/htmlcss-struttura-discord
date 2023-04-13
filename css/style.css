@@ -181,6 +181,31 @@ header{
 /*FINE SECTION 3*/
 
 
+/*INIZIO SECTION 5*/
+.section5{
+    background-color: rgb(196, 191, 191);
+    height: 720px;
+    display:flex;
+    align-items: center;
+}
+
+.container-sec5 {
+    width: 70%;
+    margin:0 auto;
+    
+    
+}
+
+.row-sec5 {
+    background-color: rgb(2, 117, 2);
+    height: 660px;
+    border: 1px dashed black;
+}
+
+
+/*FINE SECTION 5*/
+
+
 
 
 
